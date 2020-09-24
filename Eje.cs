@@ -96,4 +96,4 @@ Console.WriteLine("El segundo numero es el menor: "+num2);
 */
 }}
  }
-    
+
