@@ -1,4 +1,4 @@
-Ejercicios_alternativos
+EJERCICIOS
 Mis ejercicios de c#
 
 Nombre: Elia Toribio Guillen
