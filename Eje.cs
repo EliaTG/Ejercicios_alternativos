@@ -86,7 +86,7 @@ Console.WriteLine("El es el mayor: "+c);
 */
 
 //Ejercicio #10
-
+/*
 Console.WriteLine("Escribe un numero entero: ");
 int num1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Escribe otro numero entero: ");
@@ -97,7 +97,7 @@ Console.WriteLine("El primer numero es el menor: "+num1);
 }else{
 Console.WriteLine("El segundo numero es el menor: "+num2);
 }
-
+*/
 }}
  }
 
