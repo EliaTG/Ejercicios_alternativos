@@ -28,6 +28,23 @@ Console.WriteLine(num1 + " es múltiplo de " + num2);
 Console.WriteLine(num1 + " No es múltiplo de " + num2);
 }
 */
+ //Ejericio #3
+/*
+ int num2;
+int valor = 10;
+Console.WriteLine("Escribe un numero entero: ");
+int num1 = int.Parse(Console.ReadLine());
+if(num1%valor==0){ 
+Console.WriteLine(num1 + " es múltiplo de 10");
+Console.WriteLine("Escribe otro numero entero: ");
+num2 = int.Parse(Console.ReadLine());
+if(num2 % valor==0){ 
+ Console.WriteLine(num2 + " es múltiplo de  10");
+}
+}
+else{
+Console.WriteLine(num1 + " No es múltiplo de 10");
+}*/
 //Ejercicio#4
 /*
 Console.WriteLine("Escribe un numero entero: ");
